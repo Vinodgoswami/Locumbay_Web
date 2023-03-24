@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.5d039589.chunk.css",
-    "main.js": "/static/js/main.3d95a4e4.chunk.js",
-    "main.js.map": "/static/js/main.3d95a4e4.chunk.js.map",
+    "main.css": "/static/css/main.05dc9ebd.chunk.css",
+    "main.js": "/static/js/main.01f50e84.chunk.js",
+    "main.js.map": "/static/js/main.01f50e84.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.359faeff.js",
     "runtime-main.js.map": "/static/js/runtime-main.359faeff.js.map",
     "static/css/2.74beb764.chunk.css": "/static/css/2.74beb764.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.49202af7.chunk.js.map": "/static/js/3.49202af7.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.74beb764.chunk.css.map": "/static/css/2.74beb764.chunk.css.map",
-    "static/css/main.5d039589.chunk.css.map": "/static/css/main.5d039589.chunk.css.map",
+    "static/css/main.05dc9ebd.chunk.css.map": "/static/css/main.05dc9ebd.chunk.css.map",
     "static/js/2.952fe25d.chunk.js.LICENSE.txt": "/static/js/2.952fe25d.chunk.js.LICENSE.txt",
     "static/media/Google_logo.55ea24c4.svg": "/static/media/Google_logo.55ea24c4.svg",
     "static/media/about_pic.853c9d27.webp": "/static/media/about_pic.853c9d27.webp",
@@ -52,7 +52,7 @@
     "static/js/runtime-main.359faeff.js",
     "static/css/2.74beb764.chunk.css",
     "static/js/2.952fe25d.chunk.js",
-    "static/css/main.5d039589.chunk.css",
-    "static/js/main.3d95a4e4.chunk.js"
+    "static/css/main.05dc9ebd.chunk.css",
+    "static/js/main.01f50e84.chunk.js"
   ]
 }
