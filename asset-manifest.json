@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d52e93f5.css",
-    "main.js": "/static/js/main.752cc942.js",
+    "main.css": "/static/css/main.ccc451a5.css",
+    "main.js": "/static/js/main.eaf39af7.js",
     "static/js/654.d006fbf9.chunk.js": "/static/js/654.d006fbf9.chunk.js",
     "static/js/313.514424e3.chunk.js": "/static/js/313.514424e3.chunk.js",
     "static/js/867.9e9e1e30.chunk.js": "/static/js/867.9e9e1e30.chunk.js",
@@ -28,6 +28,7 @@
     "static/media/generated_invoice_icon.svg": "/static/media/generated_invoice_icon.77217db38eb5e63f6662f2d18cf318cc.svg",
     "static/media/invite_icon.svg": "/static/media/invite_icon.fe8a321d863fd05e4400593d02218060.svg",
     "static/media/jobList.svg": "/static/media/jobList.362f68b1bf422f9c70129192486a9125.svg",
+    "static/media/role.svg": "/static/media/role.2f675539ca55523f55dec32fb06a341f.svg",
     "static/media/invoices_icon.svg": "/static/media/invoices_icon.e66d0dfcc47c6d28a9404a41aca3f37c.svg",
     "static/media/statement_icon.svg": "/static/media/statement_icon.db61ce7d6d0d2bc9ce00b31d049acbf7.svg",
     "static/media/calender_icon.svg": "/static/media/calender_icon.972abc69a3a0123f6681336c5b997657.svg",
@@ -39,14 +40,16 @@
     "static/media/trash_icon.svg": "/static/media/trash_icon.a02a9a8e58b1224de08dc4d24025d013.svg",
     "static/media/manage_staff_icon.svg": "/static/media/manage_staff_icon.42f30b3c228f28c1bb929c52cb5f65a1.svg",
     "static/media/apply_job_icon.svg": "/static/media/apply_job_icon.d61a4af3cd535e81684082941e3c53d6.svg",
+    "static/media/completeProfileModal.svg": "/static/media/completeProfileModal.7b233273ce79d5b4ca85fef2c71c3941.svg",
     "static/media/change_password.svg": "/static/media/change_password.1a3dc95907f0ece7e17f9f33491a68f0.svg",
     "static/media/clear_chat_icon.svg": "/static/media/clear_chat_icon.5a515962bd0994d8f9448cea2f84dc39.svg",
     "static/media/archive_icon.svg": "/static/media/archive_icon.388bd72a1d6e15bf96bcc41548bc6251.svg",
     "static/media/whatapp_icon.svg": "/static/media/whatapp_icon.ec72fe3bc14beff4b01aa029d5ffb21b.svg",
-    "static/media/completedJobs.svg": "/static/media/completedJobs.c68451fadf0d6454d390fb7e4a057dc4.svg",
+    "static/media/completedJobs.svg": "/static/media/completedJobs.782a8b7905132fff52108da3f299dc11.svg",
     "static/media/block_icon.svg": "/static/media/block_icon.f8475cac46db6ba52021450fbc135b82.svg",
     "static/media/booked.svg": "/static/media/booked.040a2ca3c1ce38a160bd14877c7d08b4.svg",
     "static/media/vacancies_icon.svg": "/static/media/vacancies_icon.54c443a89d1cfa71c049fe39abbd4bf5.svg",
+    "static/media/branches_card.svg": "/static/media/branches_card.ee6e0d997f369c0d9af990c4820f1cd9.svg",
     "static/media/pencil.svg": "/static/media/pencil.9330cbaa55b3e8318b452aefcb015e22.svg",
     "static/media/calenderIcon.svg": "/static/media/calenderIcon.7658bffd7e4d1d020019b003b2450a19.svg",
     "static/media/edit_icon.svg": "/static/media/edit_icon.42bef55c41221a5b24154fca6362f509.svg",
@@ -110,7 +113,7 @@
     "static/media/sendArrowwhite.svg": "/static/media/sendArrowwhite.cb7f0f1c14c71c9cc0867bdc01887d7d.svg"
   },
   "entrypoints": [
-    "static/css/main.d52e93f5.css",
-    "static/js/main.752cc942.js"
+    "static/css/main.ccc451a5.css",
+    "static/js/main.eaf39af7.js"
   ]
 }
