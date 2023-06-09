@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.6dcc5f44.css",
-    "main.js": "/static/js/main.8db70729.js",
+    "main.css": "/static/css/main.55d619d5.css",
+    "main.js": "/static/js/main.7e688a1e.js",
     "static/js/654.d006fbf9.chunk.js": "/static/js/654.d006fbf9.chunk.js",
     "static/js/313.514424e3.chunk.js": "/static/js/313.514424e3.chunk.js",
     "static/js/867.9e9e1e30.chunk.js": "/static/js/867.9e9e1e30.chunk.js",
@@ -115,7 +115,7 @@
     "static/media/sendArrowwhite.svg": "/static/media/sendArrowwhite.cb7f0f1c14c71c9cc0867bdc01887d7d.svg"
   },
   "entrypoints": [
-    "static/css/main.6dcc5f44.css",
-    "static/js/main.8db70729.js"
+    "static/css/main.55d619d5.css",
+    "static/js/main.7e688a1e.js"
   ]
 }
