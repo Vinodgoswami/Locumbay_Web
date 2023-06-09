@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.4137279b.css",
-    "main.js": "/static/js/main.f407d8c8.js",
+    "main.css": "/static/css/main.6dcc5f44.css",
+    "main.js": "/static/js/main.8db70729.js",
     "static/js/654.d006fbf9.chunk.js": "/static/js/654.d006fbf9.chunk.js",
     "static/js/313.514424e3.chunk.js": "/static/js/313.514424e3.chunk.js",
     "static/js/867.9e9e1e30.chunk.js": "/static/js/867.9e9e1e30.chunk.js",
@@ -42,6 +42,8 @@
     "static/media/apply_job_icon.svg": "/static/media/apply_job_icon.d61a4af3cd535e81684082941e3c53d6.svg",
     "static/media/completeProfileModal.svg": "/static/media/completeProfileModal.7b233273ce79d5b4ca85fef2c71c3941.svg",
     "static/media/change_password.svg": "/static/media/change_password.1a3dc95907f0ece7e17f9f33491a68f0.svg",
+    "static/media/i_icon_black.svg": "/static/media/i_icon_black.2a7a027eaa6061bd54d758faf88b7179.svg",
+    "static/media/i_icon_red.svg": "/static/media/i_icon_red.b02274530c10f52f10abb37b62f88b83.svg",
     "static/media/clear_chat_icon.svg": "/static/media/clear_chat_icon.5a515962bd0994d8f9448cea2f84dc39.svg",
     "static/media/archive_icon.svg": "/static/media/archive_icon.388bd72a1d6e15bf96bcc41548bc6251.svg",
     "static/media/whatapp_icon.svg": "/static/media/whatapp_icon.ec72fe3bc14beff4b01aa029d5ffb21b.svg",
@@ -113,7 +115,7 @@
     "static/media/sendArrowwhite.svg": "/static/media/sendArrowwhite.cb7f0f1c14c71c9cc0867bdc01887d7d.svg"
   },
   "entrypoints": [
-    "static/css/main.4137279b.css",
-    "static/js/main.f407d8c8.js"
+    "static/css/main.6dcc5f44.css",
+    "static/js/main.8db70729.js"
   ]
 }
