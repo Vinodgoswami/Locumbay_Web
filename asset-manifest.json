@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e1ee3a0b.css",
-    "main.js": "/static/js/main.4f4d7b89.js",
+    "main.css": "/static/css/main.d5f1a8e9.css",
+    "main.js": "/static/js/main.f01ff0ca.js",
     "static/js/654.d006fbf9.chunk.js": "/static/js/654.d006fbf9.chunk.js",
     "static/js/313.514424e3.chunk.js": "/static/js/313.514424e3.chunk.js",
     "static/js/867.9e9e1e30.chunk.js": "/static/js/867.9e9e1e30.chunk.js",
@@ -36,6 +36,7 @@
     "static/media/messages_icon.svg": "/static/media/messages_icon.7bd50be61848b227615ce629ea0a62fb.svg",
     "static/media/manage_profile_icon.svg": "/static/media/manage_profile_icon.0ebd5b6368b9ffdbb0ef07b5593ff849.svg",
     "static/media/unblock_icon.svg": "/static/media/unblock_icon.3725c82156e6055d222b1ce227e7657a.svg",
+    "static/media/services_icon.svg": "/static/media/services_icon.1b0df8488ffe69fdfd18c9c70ac9b843.svg",
     "static/media/delete_icon_lg.svg": "/static/media/delete_icon_lg.210540cb8be240632ed5e6b476886aea.svg",
     "static/media/trash_icon.svg": "/static/media/trash_icon.a02a9a8e58b1224de08dc4d24025d013.svg",
     "static/media/manage_staff_icon.svg": "/static/media/manage_staff_icon.42f30b3c228f28c1bb929c52cb5f65a1.svg",
@@ -115,7 +116,7 @@
     "static/media/sendArrowwhite.svg": "/static/media/sendArrowwhite.cb7f0f1c14c71c9cc0867bdc01887d7d.svg"
   },
   "entrypoints": [
-    "static/css/main.e1ee3a0b.css",
-    "static/js/main.4f4d7b89.js"
+    "static/css/main.d5f1a8e9.css",
+    "static/js/main.f01ff0ca.js"
   ]
 }
