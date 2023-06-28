@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d5f1a8e9.css",
-    "main.js": "/static/js/main.f01ff0ca.js",
+    "main.js": "/static/js/main.c07d2c95.js",
     "static/js/654.d006fbf9.chunk.js": "/static/js/654.d006fbf9.chunk.js",
     "static/js/313.514424e3.chunk.js": "/static/js/313.514424e3.chunk.js",
     "static/js/867.9e9e1e30.chunk.js": "/static/js/867.9e9e1e30.chunk.js",
@@ -29,7 +29,9 @@
     "static/media/invite_icon.svg": "/static/media/invite_icon.fe8a321d863fd05e4400593d02218060.svg",
     "static/media/jobList.svg": "/static/media/jobList.362f68b1bf422f9c70129192486a9125.svg",
     "static/media/role.svg": "/static/media/role.2f675539ca55523f55dec32fb06a341f.svg",
+    "static/media/leaveManagement.svg": "/static/media/leaveManagement.bf258cf46e3190a3ac352dcf93afd93f.svg",
     "static/media/invoices_icon.svg": "/static/media/invoices_icon.e66d0dfcc47c6d28a9404a41aca3f37c.svg",
+    "static/media/rotaManagement.svg": "/static/media/rotaManagement.0f32a54ab5ef286294ff1b0fefe0839f.svg",
     "static/media/statement_icon.svg": "/static/media/statement_icon.db61ce7d6d0d2bc9ce00b31d049acbf7.svg",
     "static/media/calender_icon.svg": "/static/media/calender_icon.972abc69a3a0123f6681336c5b997657.svg",
     "static/media/invited.svg": "/static/media/invited.9d3e89fe2c658de988a27623a5a01a77.svg",
@@ -117,6 +119,6 @@
   },
   "entrypoints": [
     "static/css/main.d5f1a8e9.css",
-    "static/js/main.f01ff0ca.js"
+    "static/js/main.c07d2c95.js"
   ]
 }
