@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d04e1067.css",
-    "main.js": "/static/js/main.0151bee0.js",
+    "main.css": "/static/css/main.cb93b59d.css",
+    "main.js": "/static/js/main.4a02e9a1.js",
     "static/js/654.d006fbf9.chunk.js": "/static/js/654.d006fbf9.chunk.js",
     "static/js/313.514424e3.chunk.js": "/static/js/313.514424e3.chunk.js",
     "static/js/867.20b3a03f.chunk.js": "/static/js/867.20b3a03f.chunk.js",
@@ -42,6 +42,7 @@
     "static/media/delete_icon_lg.svg": "/static/media/delete_icon_lg.210540cb8be240632ed5e6b476886aea.svg",
     "static/media/trash_icon.svg": "/static/media/trash_icon.a02a9a8e58b1224de08dc4d24025d013.svg",
     "static/media/manage_staff_icon.svg": "/static/media/manage_staff_icon.42f30b3c228f28c1bb929c52cb5f65a1.svg",
+    "static/media/profile_setting_icon.svg": "/static/media/profile_setting_icon.11fbb18ac8c46515846a98d5ab749f26.svg",
     "static/media/apply_job_icon.svg": "/static/media/apply_job_icon.d61a4af3cd535e81684082941e3c53d6.svg",
     "static/media/completeProfileModal.svg": "/static/media/completeProfileModal.7b233273ce79d5b4ca85fef2c71c3941.svg",
     "static/media/change_password.svg": "/static/media/change_password.1a3dc95907f0ece7e17f9f33491a68f0.svg",
@@ -118,7 +119,7 @@
     "static/media/sendArrowwhite.svg": "/static/media/sendArrowwhite.cb7f0f1c14c71c9cc0867bdc01887d7d.svg"
   },
   "entrypoints": [
-    "static/css/main.d04e1067.css",
-    "static/js/main.0151bee0.js"
+    "static/css/main.cb93b59d.css",
+    "static/js/main.4a02e9a1.js"
   ]
 }
