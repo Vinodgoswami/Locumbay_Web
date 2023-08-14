@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.86b5e61d.css",
-    "main.js": "/static/js/main.4a5df2d2.js",
+    "main.js": "/static/js/main.3892130f.js",
     "static/js/654.d006fbf9.chunk.js": "/static/js/654.d006fbf9.chunk.js",
     "static/js/313.514424e3.chunk.js": "/static/js/313.514424e3.chunk.js",
     "static/js/867.9e9e1e30.chunk.js": "/static/js/867.9e9e1e30.chunk.js",
@@ -24,6 +24,7 @@
     "static/media/hero_bg.svg": "/static/media/hero_bg.683398e548ffaedc45d5f43605fd9734.svg",
     "static/media/locum_job_icon.svg": "/static/media/locum_job_icon.7d4d319b9e760252d7fc264d6522e859.svg",
     "static/media/locum_pharmacy_icon.svg": "/static/media/locum_pharmacy_icon.40f33fdafb1ee0dbc1c438318f9fe24e.svg",
+    "static/media/branch_name.svg": "/static/media/branch_name.3f4137dc8df85ed42ab1f662c93d92ff.svg",
     "static/media/invoice_generate_icon.svg": "/static/media/invoice_generate_icon.2336f9bc5eb04698e29de0c59fd48e15.svg",
     "static/media/generated_invoice_icon.svg": "/static/media/generated_invoice_icon.77217db38eb5e63f6662f2d18cf318cc.svg",
     "static/media/invite_icon.svg": "/static/media/invite_icon.fe8a321d863fd05e4400593d02218060.svg",
@@ -120,6 +121,6 @@
   },
   "entrypoints": [
     "static/css/main.86b5e61d.css",
-    "static/js/main.4a5df2d2.js"
+    "static/js/main.3892130f.js"
   ]
 }
